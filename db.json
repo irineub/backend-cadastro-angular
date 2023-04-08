@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+ ultra",
+      "price": "7800.89"
+    },
+    {
+      "name": "Geladeira",
+      "price": "2330.50",
+      "id": 4
+    },
+    {
+      "name": "Ar-Condicionado",
+      "price": "2340.22",
+      "id": 6
+    }
+  ]
+}
